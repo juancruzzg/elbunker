@@ -1,0 +1,54 @@
+* {
+	padding: 0px;
+	margin: 0px;
+
+
+}
+
+
+body {
+
+	overflow-x: hidden;
+	background-color: #000000;
+	width: 100vw;
+	height: 100vw;
+
+}
+
+
+ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+li a {
+
+	font-family: 'Bebas Neue', cursive;
+	font-size: 2em;
+	color: white;
+	text-decoration: none;
+	display: inline;
+	background-color: #151515;
+	float: left;
+	padding: 17px 185px;
+	
+	
+}
+
+
+#PIE {
+
+	font-family: 'Bebas Neue', cursive;
+	font-size: 1em;
+	color: white;
+	background: #151515;
+	text-align: center;
+
+
+}
+
+
+
